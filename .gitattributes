@@ -1,0 +1,4 @@
+Java filter=lfs diff=lfs merge=lfs -text
+README.MD filter=lfs diff=lfs merge=lfs -text
+设计模式 filter=lfs diff=lfs merge=lfs -text
+数据库 filter=lfs diff=lfs merge=lfs -text
